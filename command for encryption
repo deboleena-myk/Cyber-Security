@@ -1,0 +1,2 @@
+For copying the image for encryption, 
+copy /b source.jpg + txt output.jpg
